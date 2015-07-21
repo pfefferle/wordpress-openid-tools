@@ -1,0 +1,25 @@
+{
+  "name": "wordpress-openid",
+  "version": "3.3.4",
+  "description": "Allows the use of OpenID for account registration, authentication, and commenting.  Also includes an OpenID provider which can turn WordPress author URLs into OpenIDs.",
+  "main": "openid.php",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diso/wordpress-openid.git"
+  },
+  "keywords": [
+    "openid",
+    "authentication",
+    "login",
+    "comments"
+  ],
+  "author": "Matthias Pfefferle",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/diso/wordpress-openid/issues"
+  },
+  "homepage": "https://github.com/diso/wordpress-openid#readme"
+}
